@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-
+title: Welcome to missJI's homepage
+description: Fell free tou bookmark this tou keep an eyw on my project updates
 You can use the [editor on GitHub](https://github.com/jwf2017/how-to-learn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
